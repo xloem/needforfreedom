@@ -53,3 +53,8 @@ These are all up for discussion.
    Important for those areas without somebody to reach out to.
 
 4. Forking BSV or another blockchain so as to provide unlimited free storage by using storage of community data as proof of work.
+
+# Coda
+
+If you've gotten to this point reading, please find a way for work to be
+contributed to the project.
