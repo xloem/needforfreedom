@@ -1,0 +1,27 @@
+{
+  "name": "needforfreedom",
+  "version": "1.0.0",
+  "description": "for those human trafficking victims who can use it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xloem/needforfreedom.git"
+  },
+  "keywords": [
+    "human",
+    "trafficking",
+    "mobile"
+  ],
+  "author": "Karl Semich <0xloem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xloem/needforfreedom/issues"
+  },
+  "homepage": "https://github.com/xloem/needforfreedom#readme",
+  "dependencies": {
+    "phonegap": "^9.0.0"
+  }
+}
