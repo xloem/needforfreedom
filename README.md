@@ -27,7 +27,7 @@ the project's progress becomes threatened.
 
 # Design Proposals
 
-The are all up for discussion.
+These are all up for discussion.
 
 * Storage
   * BSV blockchain  
