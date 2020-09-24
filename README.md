@@ -4,9 +4,10 @@ This is a project to help those human trafficking victims who can make use of it
 Please contribute a little, anything you can find to add.  A typo, a worry opened
 as an issue, a link to a resource.  Anything.
 
-# Current goal
+# Current goals
 
 - [ ] make a working cross-platform application using any backend, that can access the microphone
+- [ ] communicate with the Haven project to see whether they have interest in immutable streamed recording.  https://github.com/guardianproject/haven/issues/431
 
 # Explanation
  
