@@ -1,8 +1,11 @@
 # The Need For Freedom
 
-This is a project to help those human trafficking victims who can make use of it.
-Please contribute a little, anything you can find to add.  A typo, a worry opened
-as an issue, a link to a resource.  Anything.
+This is the beginning of an evidence sharing app to help those human
+trafficking victims who can make use of it.  Please contribute a little,
+anything you can find to add.  A typo, a worry opened as an issue, a link to a
+resource.  Anything.
+
+Work is in the 'devlog' branch.
 
 # Current goals
 
