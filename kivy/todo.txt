@@ -1,2 +1,0 @@
-to use kivy for this (python), a bug must be fixed in audiostream.
-https://github.com/kivy/audiostream/issues/25
