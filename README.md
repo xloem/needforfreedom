@@ -1,5 +1,7 @@
 # The Need For Freedom
 
+Pull requests are automatically merged.  This has not yet been tested.
+
 This is the beginning of an evidence sharing app to help those human
 trafficking victims who can make use of it.  Please contribute a little,
 anything you can find to add.  A typo, a worry opened as an issue, a link to a
