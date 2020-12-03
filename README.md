@@ -1,6 +1,6 @@
 # The Need For Freedom
 
-Pull requests are automatically merged.  This has not yet been tested.
+Pull requests are automatically merged.
 
 This is the beginning of an evidence sharing app to help those human
 trafficking victims who can make use of it.  Please contribute a little,
